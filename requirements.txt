@@ -1,0 +1,7 @@
+requests
+pandas
+validators
+setuptools
+configparser
+google-cloud-storage
+-e.
